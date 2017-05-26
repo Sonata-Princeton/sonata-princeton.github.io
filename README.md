@@ -7,3 +7,6 @@ A skeleton for making a project page for the group website
 * Make your modifications and your own commits locally.
 * Push your changes to your GitHub repository (as you generally won't have the write permissions on the project's repository directly).
 * You, I, (or someone) can git pull your repository contents into the webspace.
+=======
+# www
+Project Website
