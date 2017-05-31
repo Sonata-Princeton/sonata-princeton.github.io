@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01ba4eb5-227e-4464-b1bc-4f5325bba1ee" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/slides/sdx-sigcomm_v1.4.pptx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/people.html" afterPath="$PROJECT_DIR$/people.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources.html" afterPath="$PROJECT_DIR$/resources.html" />
-    </list>
+    <list default="true" id="01ba4eb5-227e-4464-b1bc-4f5325bba1ee" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
